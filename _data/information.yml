@@ -1,9 +1,10 @@
-phone: "+1 929 391 0976"
-email: info@belkirkcollege.com
-address_1: 500 University Ave
-address_2: ''
-city: New York
-state: NY
-postal_code: 10006
-country: US
-twitter: forestryio
+---
+phone: ''
+email: aghitza@alum.mit.edu
+address_1: School of Mathematics and Statistics
+address_2: University of Melbourne
+city: Parkville
+state: VIC
+postal_code: 3010
+country: Australia
+twitter: aghitza
